@@ -15,7 +15,7 @@ The screen shot below shows and example of a filtered list. In this case the use
 ![Filter Example](https://github.com/mhorstman/UFOs/blob/main/static/images/filter_example.png)
 
 ## Summary
-The website is a good start provide users a tool to search through the large list of UFO sightings data, however additional enhancements are recommended to add functionality to the site and make it more user friendly. One main drawback to the current site is that the search is limited to one value per search field (e.g. only allows the user to search for one date at a time). The following are 2 recommendations for enhancements on future releases. 
+The website is a good start provide users a tool to search through the large list of UFO sightings data, however additional enhancements are recommended to add functionality to the site and make it more user friendly. One main drawback to the current site is that the search is limited to one value per search field (e.g. only allows the user to search for one date at a time). The following are 2 recommendations for enhancements on future releases. <br/>
 **Recommendations**
 1. Update the search functions to accept multiple values, such as multiple states or a range of dates.
 2. Make the search functions more robust to work with either upper or lower case letters.
